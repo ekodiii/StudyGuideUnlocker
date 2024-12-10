@@ -1,4 +1,4 @@
-# Hi Idiots
+# Hi Idiots!
 Are you tired of reading back through all your notes to create a study guide? Everybody already knows you use AI for everything, so put that Claude subscription to use and combine all of your lecture slides into a single pdf!
 
 ## THIS ENTIRE PROJECT IS IN PROGRESS! MORE TO COME
