@@ -47,7 +47,7 @@ def combine_pdfs(input_dir, output_path):
 
 
 # Usage
-input_directory = '/Users/e/Downloads/CS Notes-Unlocked'  #input("Directory of PDFs to be combined")
+input_directory = input("Directory of PDFs to be combined")
 output_pdf = input_directory + '/Combined.pdf'
 
 combine_pdfs(input_directory, output_pdf)

@@ -40,8 +40,8 @@ def batch_convert_pdfs(input_dir, output_dir, view_password):
 
 
 # Usage
-input_directory = '/Users/e/Downloads/CS Notes' #input("Input directory containing PDF files: ")
-output_directory = '/Users/e/Downloads/CS Notes-Unlocked' #input("Output directory to put PDF files: ")
-view_password = 'magicword' #input("Password: ")
+input_directory = input("Input directory containing PDF files: ")
+output_directory = input("Output directory to put PDF files: ")
+view_password = input("Password: ")
 
 batch_convert_pdfs(input_directory, output_directory, view_password)
