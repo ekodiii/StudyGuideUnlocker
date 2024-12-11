@@ -15,4 +15,4 @@ Don't waste your project memory, and make it difficult to organize everything. J
 
 ### Converter
 
-What are you actually going to do with a 80mb .pptx, be so for real right now. Who even cares if its not .pdf! Make almost anything a .pdf with this app that definetly won't work because it requires so many workaround permissions and downloaded software! I hope you have Powerpoint installed because this will NOT work without it. Also needs AppleScript permissions on Mac, so don't hold any hopes up that it will work perfectly.
+What are you actually going to do with a 80mb .pptx? Be so for real right now. Who even cares if its not .pdf! Make almost anything a .pdf with this app that definetly won't work because it requires so many workaround permissions and downloaded software! I hope you have Powerpoint installed because this will NOT work without it. Also needs AppleScript permissions on Mac, so don't hold any hopes up that it will work perfectly.
