@@ -46,8 +46,10 @@ def combine_pdfs(input_dir, output_path):
         print(f"Error during combination process: {str(e)}")
 
 
-# Usage
-input_directory = input("Directory of PDFs to be combined")
-output_pdf = input_directory + '/Combined.pdf'
+def main():
+    input_directory = input("Directory of PDFs to be combined: ")
+    output_pdf = input_directory + '/Combined.pdf'
+    combine_pdfs(input_directory, output_pdf)
 
-combine_pdfs(input_directory, output_pdf)
+if __name__ == '__main__':
+    main()

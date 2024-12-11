@@ -39,9 +39,11 @@ def batch_convert_pdfs(input_dir, output_dir, view_password):
             print(f"- {name}: {reason}")
 
 
-# Usage
-input_directory = input("Input directory containing PDF files: ")
-output_directory = input("Output directory to put PDF files: ")
-view_password = input("Password: ")
+def main():
+    input_directory = input("Input directory containing PDF files: ")
+    output_directory = input("Output directory containing PDF files: ")
+    view_password = input("Password: ")
+    batch_convert_pdfs(input_directory, output_directory, view_password)
 
-batch_convert_pdfs(input_directory, output_directory, view_password)
+if __name__ == '__main__':
+    main()
